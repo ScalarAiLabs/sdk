@@ -1,5 +1,7 @@
 # 🚀 Scalar AI
 
+official CA : 31eMoANNcEeN4mGTpyQP1TDCvxC9cAt5qcrYxAUgpump
+
 **Scalar AI** amplifies intelligence—scaling insights, automation, and innovation across the digital universe.
 
 ---
